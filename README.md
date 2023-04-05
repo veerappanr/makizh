@@ -1,3 +1,3 @@
-# makizh
-New Lab
+# Python3 LAB
+
 I am editing the README file. Adding some more details about the project description.
